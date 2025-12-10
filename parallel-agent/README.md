@@ -54,7 +54,7 @@ This hybrid approach demonstrates how to combine workflow agent types for optima
 ## Project Structure
 
 ```
-10-parallel-agent/
+parallel-agent/
 │
 ├── system_monitor_agent/          # Main System Monitor Agent package
 │   ├── __init__.py                # Package initialization
@@ -108,7 +108,7 @@ GOOGLE_API_KEY=your_api_key_here
 ### Running the Example
 
 ```bash
-cd 10-parallel-agent
+cd parallel-agent
 adk web
 ```
 

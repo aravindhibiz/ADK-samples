@@ -67,7 +67,7 @@ This approach follows ADK best practices by:
 To run this example:
 
 ```bash
-cd 11-loop-agent
+cd loop-agent
 adk web
 ```
 

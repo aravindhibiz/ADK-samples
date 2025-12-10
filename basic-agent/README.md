@@ -86,7 +86,7 @@ source ../.venv/bin/activate
 
 To run this basic agent example, you'll use the ADK CLI tool which provides several ways to interact with your agent:
 
-1. Navigate to the 1-basic-agent directory containing your agent folder.
+1. Navigate to the basic-agent directory containing your agent folder.
 2. Start the interactive web UI:
 ```bash
 adk web
